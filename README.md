@@ -28,10 +28,10 @@
 
 
 
-** ijtimoiy tarmoq iconlari:**
+
 
 <p align="center">
-  <a href="https://wa.me/998901234567">
+  <a href="">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" style="border-radius: 50%; width: 48px; height: 48px;" />
   </a>
   <a href="https://t.me/your_username">
@@ -112,12 +112,3 @@
 
 ---
 
-## 📚 Hozirgi O'rganishlar
-
-```javascript
-const currentlyLearning = {
-  backend: ['Advanced NestJS', 'Microservices', 'GraphQL'],
-  devops: ['Docker', 'Kubernetes', 'CI/CD'],
-  database: ['Redis', 'Elasticsearch'],
-  frontend: ['Next.js', 'React Native']
-};
