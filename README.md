@@ -18,25 +18,28 @@
 
 ## 🚀 Texnologiyalar va Vositalar
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,react,mongodb,postgres,mysql,python,html,css,docker,linux,git&theme=dark" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Yoki boshqa variantlar:**
 
-### Boshqa Vositalar
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="border-radius: 50%;" />
+</p>
 
 ---
 
@@ -44,16 +47,33 @@
 
 <p align="center">
   <a href="https://wa.me/998901234567">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=plastic" alt="WhatsApp" style="border-radius: 50%;" />
   </a>
   <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=plastic" alt="Telegram" style="border-radius: 50%;" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadyahyo-nematjonov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" style="border-radius: 50%;" />
   </a>
   <a href="https://github.com/MuhammadyahyoNematjonov">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic" alt="GitHub" style="border-radius: 50%;" />
+  </a>
+</p>
+
+**Yoki dumaloq ijtimoiy tarmoq iconlari:**
+
+<p align="center">
+  <a href="https://wa.me/998901234567">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" style="border-radius: 50%; width: 48px; height: 48px;" />
+  </a>
+  <a href="https://t.me/your_username">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" style="border-radius: 50%; width: 48px; height: 48px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadyahyo-nematjonov">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width: 48px; height: 48px;" />
+  </a>
+  <a href="https://github.com/MuhammadyahyoNematjonov">
+    <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" style="border-radius: 50%; width: 48px; height: 48px;" />
   </a>
 </p>
 
@@ -62,12 +82,12 @@
 ## 📊 GitHub Statistikam
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadyahyoNematjonov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadyahyoNematjonov&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadyahyoNematjonov&show_icons=true&theme=tokyonight&hide_border=true" style="border-radius: 10px;" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadyahyoNematjonov&theme=tokyonight&hide_border=true" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadyahyoNematjonov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadyahyoNematjonov&layout=compact&theme=tokyonight&hide_border=true" style="border-radius: 10px;" />
 </p>
 
 ---
@@ -75,7 +95,7 @@
 ## 🏆 Yutuqlar va Faoliyat
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadyahyoNematjonov&theme=tokyonight&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadyahyoNematjonov&theme=tokyonight&no-frame=true&margin-w=4&row=1" style="border-radius: 10px;" />
 </p>
 
 ---
@@ -83,7 +103,7 @@
 ## 🔥 Faoliyat Grafigi
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadyahyoNematjonov&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadyahyoNematjonov&theme=tokyo-night&hide_border=true" style="border-radius: 10px;" />
 </p>
 
 ---
@@ -91,14 +111,36 @@
 ## 💼 Loyihalar
 
 ### 🤖 Telegram Bot Loyihalari
-- **E-commerce Bot** - Telegram orqali mahsulot sotish
-- **Restaurant Bot** - Restoran uchun buyurtma qabul qilish
-- **Learning Bot** - O'qituvchi bot darslar uchun
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.icons8.com/color/30/telegram-app--v1.png" style="border-radius: 50%; margin-right: 10px;" />
+  <strong>E-commerce Bot</strong> - Telegram orqali mahsulot sotish
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.icons8.com/color/30/restaurant.png" style="border-radius: 50%; margin-right: 10px;" />
+  <strong>Restaurant Bot</strong> - Restoran uchun buyurtma qabul qilish
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.icons8.com/color/30/education.png" style="border-radius: 50%; margin-right: 10px;" />
+  <strong>Learning Bot</strong> - O'qituvchi bot darslar uchun
+</div>
 
 ### 🌐 Web Ilovalar
-- **Portfolio Sayt** - Shaxsiy portfolio veb-sayt
-- **CRM Sistema** - Mijozlarni boshqarish tizimi
-- **Blog Platformasi** - Maqolalar va yangiliklarni chop etish
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.icons8.com/color/30/portfolio.png" style="border-radius: 50%; margin-right: 10px;" />
+  <strong>Portfolio Sayt</strong> - Shaxsiy portfolio veb-sayt
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.icons8.com/color/30/crm.png" style="border-radius: 50%; margin-right: 10px;" />
+  <strong>CRM Sistema</strong> - Mijozlarni boshqarish tizimi
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.icons8.com/color/30/blog.png" style="border-radius: 50%; margin-right: 10px;" />
+  <strong>Blog Platformasi</strong> - Maqolalar va yangiliklarni chop etish
+</div>
 
 ---
 
