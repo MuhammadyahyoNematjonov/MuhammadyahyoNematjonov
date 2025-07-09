@@ -22,11 +22,16 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nestjs-a-progressive-node-js-framework-for-building-efficient-server-side-applications-logo-color-tal-revivo.png" title="NestJS"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/postgresql.png" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
   <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/postgresql.png" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jsx-a-syntax-extension-for-javascript-often-used-with-react-logo-shadow-tal-revivo.png" title="JSX"/>
   <img src="https://img.icons8.com/fluency/48/docker.png" title="Docker"/>
   <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux"/>
 </p>
