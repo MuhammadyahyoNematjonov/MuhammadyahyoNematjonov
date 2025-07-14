@@ -31,13 +31,10 @@
 
 
 <p align="center">
-  <a href="">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" style="border-radius: 50%; width: 48px; height: 48px;" />
-  </a>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/M2008_31">
     <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" style="border-radius: 50%; width: 48px; height: 48px;" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammadyahyo-nematjonov">
+  <a href="https://www.linkedin.com/in/muhammadyahyo-nematjonov-b90148374/">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width: 48px; height: 48px;" />
   </a>
   <a href="https://github.com/MuhammadyahyoNematjonov">
